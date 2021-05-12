@@ -1,6 +1,6 @@
 {
     "version": "1.0.0",
-    "name": "com.abcoskn.cordova.plugins.androidtvplugin",
+    "name": "abcoskn-androidtvplugin",
     "cordova_name": "AndroidTVPlugin",
     "description": "Cordova Android TV Plugin",
     "platforms": [
@@ -20,7 +20,7 @@
         "ecosystem:cordova",
         "cordova-android"
     ],
-  "author": "Hugh Isaacs II",
+  "author": "Abdullah Coskun",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/abcoskn/Cordova-AndroidTV-Plugin/issues"
